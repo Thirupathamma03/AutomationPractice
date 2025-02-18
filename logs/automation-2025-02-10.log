@@ -1,0 +1,43 @@
+17:06:47.334 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+17:06:53.743 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+17:06:53.757 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+17:06:53.838 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+17:06:54.245 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+17:06:54.246 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+17:07:07.489 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+17:07:07.525 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+17:08:41.940 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+17:08:49.424 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+17:08:49.449 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+17:08:49.549 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+17:08:49.998 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+17:08:49.999 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+17:09:03.522 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+17:09:03.545 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+17:15:09.253 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+17:15:12.764 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+17:15:12.773 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+17:15:12.917 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+17:15:13.490 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+17:15:13.491 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+17:15:27.071 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+17:15:27.090 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+17:15:27.312 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+17:15:32.333 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+17:15:32.334 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+17:15:32.425 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+17:15:32.876 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+17:15:32.876 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+17:15:46.212 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+17:15:46.224 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+17:15:46.419 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+17:16:27.729 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+17:16:27.731 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+17:16:27.911 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+17:16:28.318 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+17:16:28.318 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+17:16:41.552 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+17:16:41.593 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+18:53:37.572 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+18:54:37.785 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+18:54:54.928 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...

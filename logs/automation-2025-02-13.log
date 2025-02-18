@@ -1,0 +1,39 @@
+13:39:09.924 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
+13:39:13.935 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
+13:39:13.948 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
+13:39:14.027 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
+13:39:14.419 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
+13:39:14.420 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
+13:39:27.679 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
+13:39:27.731 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
+14:55:02.467 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+14:55:07.567 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+14:55:07.582 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+14:55:32.389 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+14:55:35.797 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+14:55:35.809 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+14:59:19.596 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+14:59:22.919 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+14:59:22.931 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+14:59:22.932 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:01:16.655 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+15:01:19.989 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+15:01:20.007 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+15:01:20.007 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:01:43.838 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+15:01:47.230 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+15:01:47.245 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+15:01:47.245 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:04:17.640 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+15:04:20.986 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+15:04:20.999 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+15:04:20.999 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:04:21.146 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:04:21.409 [main]  INFO testCases.TC002_LoginTest - *****  click on Login  *****
+15:07:38.844 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
+15:07:42.585 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
+15:07:42.599 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
+15:07:42.600 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:07:42.687 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
+15:07:42.943 [main]  INFO testCases.TC002_LoginTest - *****  click on Login  *****
+15:07:43.724 [main]  INFO testCases.TC002_LoginTest - *****  Finished Tc_002_LoginTest *****
