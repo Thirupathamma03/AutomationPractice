@@ -21,6 +21,8 @@ public class MyaccountPage extends BaseClass {
 	
 	By logout=By.xpath("//a[@class='list-group-item'][normalize-space()='Logout']");
 	
+	By Newslatter=By.xpath("//ul[@class='list-unstyled']//a[text()='Newsletter']");
+	
 	public boolean isMyAccountPageExists() {
 		try {
 		return driver.findElement(Accountpage).isDisplayed();
@@ -32,5 +34,9 @@ public class MyaccountPage extends BaseClass {
 	
 	public void ClickLogout() {
 		driver.findElement(logout).click();
+	}
+	
+	public void VerifyNewsLatter() {
+		driver.findElement(Newslatter).click();
 	}
 }

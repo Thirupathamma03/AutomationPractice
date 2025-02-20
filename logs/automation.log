@@ -1,17 +1,23 @@
-16:21:12.164 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
-16:21:12.640 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
-16:26:51.212 [main]  INFO testCases.TC001_AccountRegistrationTest - Initializing driver...
-16:26:57.303 [main]  INFO testCases.TC001_AccountRegistrationTest - Driver initialized successfully.
-16:26:57.312 [main]  INFO testCases.TC001_AccountRegistrationTest - ********* Staring TC001_AccountRegistrationTest ******
-16:26:57.382 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on myAccount link  
-16:26:57.740 [main]  INFO testCases.TC001_AccountRegistrationTest - clicked on Registration  link  
-16:26:57.742 [main]  INFO testCases.TC001_AccountRegistrationTest - Providing customer details 
-16:27:11.391 [main]  INFO testCases.TC001_AccountRegistrationTest - validating expected message...........  
-16:27:11.423 [main]  INFO testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest*******
-16:27:11.572 [main]  INFO testCases.TC002_LoginTest - Initializing driver...
-16:27:14.780 [main]  INFO testCases.TC002_LoginTest - Driver initialized successfully.
-16:27:14.780 [main]  INFO testCases.TC002_LoginTest - *****  Starting Tc_002_LoginTest *****
-16:27:14.780 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
-16:27:14.872 [main]  INFO testCases.TC002_LoginTest - *****  click My Account  *****
-16:27:15.134 [main]  INFO testCases.TC002_LoginTest - *****  click on Login  *****
-16:27:15.891 [main]  INFO testCases.TC002_LoginTest - *****  Finished Tc_002_LoginTest *****
+19:21:10.206 [main]  INFO testCases.TC006_AccountRigistrationWithWrongPassword - Initializing driver...
+19:21:15.791 [main]  INFO testCases.TC006_AccountRigistrationWithWrongPassword - Driver initialized successfully.
+19:21:15.801 [main]  INFO testCases.TC006_AccountRigistrationWithWrongPassword -  ********* Starting TC006_AccountRigistrationWithWrongPassword ********
+19:21:16.310 [main]  INFO testCases.TC006_AccountRigistrationWithWrongPassword - Providing customer details 
+19:21:27.257 [main]  INFO testCases.TC006_AccountRigistrationWithWrongPassword -  ********* Finished TC006_AccountRigistrationWithWrongPassword ********
+19:39:52.343 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Initializing driver...
+19:39:55.961 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Driver initialized successfully.
+19:39:55.982 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - **************Starting TC007_AccountRegistrationWithExistingEmail ***********
+19:39:56.440 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Providing customer details 
+19:40:56.145 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Initializing driver...
+19:40:59.635 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Driver initialized successfully.
+19:40:59.655 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - **************Starting TC007_AccountRegistrationWithExistingEmail ***********
+19:41:00.067 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Providing customer details 
+19:43:05.014 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Initializing driver...
+19:43:08.512 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Driver initialized successfully.
+19:43:08.526 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - **************Starting TC007_AccountRegistrationWithExistingEmail ***********
+19:43:08.965 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Providing customer details 
+19:43:19.945 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - ************** Finished TC007_AccountRegistrationWithExistingEmail ***********
+19:45:57.553 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Initializing driver...
+19:46:01.013 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Driver initialized successfully.
+19:46:01.031 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - **************Starting TC007_AccountRegistrationWithExistingEmail ***********
+19:46:01.460 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - Providing customer details 
+19:46:12.459 [main]  INFO testCases.TC007_AccountRegistrationWithExistingEmail - ************** Finished TC007_AccountRegistrationWithExistingEmail ***********

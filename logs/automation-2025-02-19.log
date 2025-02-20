@@ -1,0 +1,27 @@
+15:28:09.636 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - Initializing driver...
+15:28:18.625 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - Driver initialized successfully.
+15:28:18.640 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  Starting TC004_AccountRegistrationWithOutData *****
+15:28:18.640 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  click My Account  *****
+15:28:18.710 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  click My Account  *****
+15:28:19.210 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - clicked on Registration  link  
+15:28:19.710 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  Finished TC004_AccountRegistrationWithOutData *****
+15:29:26.949 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - Initializing driver...
+15:29:30.783 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - Driver initialized successfully.
+15:29:30.793 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  Starting TC004_AccountRegistrationWithOutData *****
+15:29:30.793 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  click My Account  *****
+15:29:30.871 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  click My Account  *****
+15:29:31.278 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - clicked on Registration  link  
+15:29:34.790 [main]  INFO testCases.TC004_AccountRegistrationWithoutData - *****  Finished TC004_AccountRegistrationWithOutData *****
+16:13:44.793 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Initializing driver...
+16:13:48.916 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Driver initialized successfully.
+16:13:48.931 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - ********* Staring TC005_AccountRegistrationTest To click No NewsLetter    ******
+16:13:49.004 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - clicked on myAccount link  
+16:13:49.370 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - clicked on Registration  link  
+16:13:49.371 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Providing customer details 
+16:14:41.713 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Initializing driver...
+16:14:45.262 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Driver initialized successfully.
+16:14:45.279 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - ********* Staring TC005_AccountRegistrationTest To click No NewsLetter    ******
+16:14:45.353 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - clicked on myAccount link  
+16:14:45.787 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - clicked on Registration  link  
+16:14:45.789 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - Providing customer details 
+16:14:59.634 [main]  INFO testCases.TC005_AccountRigistrationByClickingNoNewsLetter - ********* Finished TC005_AccountRegistrationTest To click No NewsLetter    ******

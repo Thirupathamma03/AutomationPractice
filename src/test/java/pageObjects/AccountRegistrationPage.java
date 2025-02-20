@@ -31,6 +31,7 @@ public class AccountRegistrationPage extends BaseClass {
 		    private By pws = By.xpath("//input[@id='input-password']");
 		    private By confirmPws = By.xpath("//input[@id='input-confirm']");
 		    private By btn = By.xpath("//label[normalize-space()='Yes']");
+		    private By No_btn=By.xpath("//input[@value='0']");
 		    private By checkBox = By.xpath("//input[@name='agree']");
 		    private By click = By.xpath("//input[@value='Continue']");
 		    private By confirmMsg = By.xpath("//h1[normalize-space()='Your Account Has Been Created!']");
@@ -47,6 +48,8 @@ public class AccountRegistrationPage extends BaseClass {
 		    public void setEmail(String Email) {
 		        driver.findElement(email).sendKeys(generateNewEmail());
 		    }
+		    
+		    
 
 		    public void setPhone(String phoneNumber) {
 		        driver.findElement(phone).sendKeys(phoneNumber);
@@ -62,6 +65,10 @@ public class AccountRegistrationPage extends BaseClass {
 
 		    public void clickYesButton() {
 		        driver.findElement(btn).click();
+		    }
+		    
+		    public void clickNoButton() {
+		        driver.findElement(No_btn).click();
 		    }
 
 		    public void clickCheckBox() {
